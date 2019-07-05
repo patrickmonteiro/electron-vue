@@ -18,7 +18,7 @@
             and so much more.
           </p>
           <button @click="open('https://simulatedgreg.gitbooks.io/electron-vue/content/')">Read the Docs</button><br>
-          <button @click="incrementa">Count</button> <button @click="decrementa">Descrementa</button><br><br>
+          <button @click="incrementa"> - </button> <button @click="decrementa"> + </button><br><br>
           {{ main }}
         </div>
         <div class="doc">
